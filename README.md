@@ -1,3 +1,6 @@
+## Data Classification
+Bank of England Data Classification: OFFICIAL BLUE
+
 # Digits Recognition Tool for Bank of England 19th Century Archival Discount Ledgers
 
 This tool is used to extract numeric digits from images of handwritten ledgers.  
